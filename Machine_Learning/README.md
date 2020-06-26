@@ -40,7 +40,8 @@ Commercial banks receive a lot of applications for credit cards.
 - Technologies and methods employ:
     - Supervised Learning with scikit-learn
     - Data Manipulation with pandas
-    - The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.    
+
+The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository.    
 
 
 [Source: DataCamp]
