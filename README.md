@@ -7,7 +7,7 @@ using Python and SQL.
 
 [Completed projects](DataCamp_projects)
 
-[Certificates](DataCamp_Certicates)
+[Certificates](Certicates)
 
 - Data Scientist with Python (88 hours, completed): 
 
