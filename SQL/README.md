@@ -26,6 +26,9 @@ It contains both national and regional debt statistics for several countries acr
 [Data Exploration](Data_exploration)
 ==========================
 
+Project Description
+--------------
+
 In this project, we have done a data analysis for a prestigious country club called Pinebrook.
 The club has seen a significant increase in membership cancellations over the past few years. 
 Management has asked us to create a report summarizing the membership profile to try and understand what's driving these cancellations.
@@ -36,3 +39,17 @@ Management has asked us to create a report summarizing the membership profile to
    - Use WHERE to filter your returned data
    - Create powerful aggregations to sort and analyze your data
    - Organize your data using ORDER BY and LIMIT
+
+[Data analysis with SQL](SQL_Data_Analysis)
+==========================
+
+Project Description
+--------------
+
+In this project we have implemented advanced queries to calculate core business metrics and
+Key Performance Indicator (KPI).
+
+- The jupyter notebook includes concepts as:
+   - Use Common Table Expressions to temporarily store a query's results
+   - Fetch values from different rows using window functions
+   - Use self-joins to peak into the future
