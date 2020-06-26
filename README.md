@@ -1,4 +1,4 @@
-# Data science journey
+Data science journey
 ========================== 
 
 This repository contains a portfolio of my work on my self-directed training on data science using Python. 
