@@ -2,8 +2,16 @@ Data science journey
 ========================== 
 
 This repository contains a portfolio of my work on my self-directed training on data science using Python. 
+Since May 2019, I have been enrolled at DataCamp in order to gain hand-on experience on Data Science methologies 
+using Python and SQL.
+
+[Completed projects](DataCamp_projects)
+
+[Certificates](DataCamp_Certicates)
+
+
 In the following different projects are organized 
-technologies:
+by technologies used:
 
 [SQL](SQL)
 ==========================
@@ -20,5 +28,5 @@ technologies:
 [Scientific programming](Python_for_scientists_coding)
 ==========================
 
-[Machine Learning with Scikit-Learn](DataCamp_projects)
+[Machine Learning with Scikit-Learn](Machine_Learning)
 ==========================
