@@ -1,5 +1,8 @@
-# datascience
-This project contains my work on my self-directed training on data science using Python. In the following different projects are organized 
+# Data science journey
+========================== 
+
+This repository contains a portfolio of my work on my self-directed training on data science using Python. 
+In the following different projects are organized 
 technologies:
 
 [SQL](SQL)
