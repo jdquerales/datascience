@@ -22,9 +22,13 @@ to learn the statistical and machine learning techniques we need to train decisi
 
 - Python Programmer (52 hours)
 
+- Data Analyst with SQL Server (45 hours, In progress)
+
+- Machine Learning Scientist with Python (93 hours, In progress)
 
 In the following different projects are organized 
 by technologies used:
+==========================
 
 [SQL](SQL)
 ==========================
