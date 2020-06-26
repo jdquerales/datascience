@@ -9,7 +9,7 @@ using Python and SQL.
 
 [Certificates](DataCamp_Certicates)
 
-- Data Scientist with Python (88 hours): 
+- Data Scientist with Python (88 hours, completed): 
 
 This track includes learning on  how Python  allows us to import, clean, manipulate,
  and visualize data—all integral skills for any aspiring data professional or researcher. 
@@ -18,9 +18,9 @@ including pandas, NumPy, Matplotlib, and many more. I have worked with real-worl
 to learn the statistical and machine learning techniques we need to train decision trees
  and use natural language processing (NLP).
 
-- Data Scientist with Python (60 hours)
+- Data Scientist with Python (60 hours, completed)
 
-- Python Programmer (52 hours)
+- Python Programmer (52 hours, completed)
 
 - Data Analyst with SQL Server (45 hours, In progress)
 
