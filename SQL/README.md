@@ -21,3 +21,18 @@ The dataset contains information about the amount of debt (in USD) owed by devel
 The data used in this project is provided by The World Bank. 
 It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 [Source: DataCamp]
+
+
+[Data Exploration](Data_exploration)
+==========================
+
+In this project, we have done a data analysis for a prestigious country club called Pinebrook.
+The club has seen a significant increase in membership cancellations over the past few years. 
+Management has asked us to create a report summarizing the membership profile to try and understand what's driving these cancellations.
+
+- The jupyter notebook includes concepts as:
+   - How to translate business questions into powerful SQL queries
+   - Use SELECT to return the exact data you need
+   - Use WHERE to filter your returned data
+   - Create powerful aggregations to sort and analyze your data
+   - Organize your data using ORDER BY and LIMIT
