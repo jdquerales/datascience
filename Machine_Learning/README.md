@@ -45,3 +45,27 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 
 
 [Source: DataCamp]
+
+[telecom](Scikit-Learn_telecom)
+==========================
+
+Project Description
+--------------
+
+In this project we process data for machine learning and create predictions on a churn case study.
+
+- Main concepts implemented:
+
+   - The different types of machine learning and when to use them.
+   - How to apply data preprocessing for machine learning including feature engineering.
+   - How to apply supervised machine learning models to generate predictions!
+
+The dataset to be used in this project is a CSV file named telco.csv, which contains data on telecom customers 
+churning and some of their key behaviors.
+
+- Technologies and methods employ:
+    - Data manipulation with pandas
+    - Data visualization  with seaborn
+    - Supervised Learning with scikit-learn
+    - Scikit-Learn classifiers: Decision Tree, Random Forest and K-Neighbors.  
+
