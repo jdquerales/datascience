@@ -46,7 +46,7 @@ The dataset used in this project is the Credit Card Approval dataset from the UC
 
 [Source: DataCamp]
 
-[telecom](Scikit-Learn_telecom)
+[Churn case study](Scikit-Learn_telecom)
 ==========================
 
 Project Description
